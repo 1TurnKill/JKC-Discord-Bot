@@ -29,3 +29,4 @@ require('./utils/loadCommands')(client);
 require('./utils/ytUpdate')(client);
 
 client.login(config.token);
+ 
